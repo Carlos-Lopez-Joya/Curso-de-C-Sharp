@@ -76,6 +76,9 @@ namespace inicializar_variables
             // mostrar dos veces la primera variable
             Console.WriteLine("El precio de la camisa es {0} y su color es {0} ", colorCamisa, precioCamisa);
 
+
+            Console.WriteLine("El precio de la camisa es de $:{0} y el color de la camisa es {1}, y un nuemoro double es {2}", precioCamisa, colorCamisa,i);
+
             Console.ReadKey(); // en el caso que estemos depurando
      
 
