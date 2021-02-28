@@ -1,0 +1,14 @@
+D:\Users\Usuario\Documents\Visual Studio 2017\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+D:\Users\Usuario\Documents\Visual Studio 2017\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+D:\Users\Usuario\Documents\Visual Studio 2017\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+D:\Users\Usuario\Documents\Visual Studio 2017\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+D:\Users\Usuario\Documents\Visual Studio 2017\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Documents\Visual Studio 2017\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+D:\Users\Usuario\Documents\Visual Studio 2017\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
+D:\Users\Usuario\Documents\Visual Studio 2017\Projects\Curso-de-C-sharp\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+D:\Users\Usuario\Documents\Visual Studio 2017\Projects\Curso-de-C-sharp\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+D:\Users\Usuario\Documents\Visual Studio 2017\Projects\Curso-de-C-sharp\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+D:\Users\Usuario\Documents\Visual Studio 2017\Projects\Curso-de-C-sharp\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+D:\Users\Usuario\Documents\Visual Studio 2017\Projects\Curso-de-C-sharp\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Documents\Visual Studio 2017\Projects\Curso-de-C-sharp\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+D:\Users\Usuario\Documents\Visual Studio 2017\Projects\Curso-de-C-sharp\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
